@@ -32,19 +32,43 @@ Visual Studio
 •fomulario principal del sistema donde se ingresan los datos del 
 empleados.Esenario 1: sin datos
 
+
+
 <img width="416" height="220" alt="image" src="https://github.com/user-attachments/assets/1207e2a1-3dd1-4c74-8fc5-ba6a84c69e7e" />
 
+
+
 •Esenario 2: con datos datos
+
+
+
 <img width="414" height="217" alt="image" src="https://github.com/user-attachments/assets/070bb550-d475-4a88-94ab-45806d9c3959" />
 
+
+
 •Esenario 3: Mensajes de validación
+
+
+
 <img width="494" height="253" alt="image" src="https://github.com/user-attachments/assets/6b669243-6167-45a6-a07b-eda7fd4cf78e" />
 
+
+
 •Esenario 4: 
+
+
+
 <img width="477" height="245" alt="image" src="https://github.com/user-attachments/assets/c29f4375-f1e6-40bc-893a-83ec1b1d9e34" />
 
+
+
 •Esenario 5: Archivo de texto generado con los datos en forma de tabla.
+
+
+
 <img width="656" height="134" alt="image" src="https://github.com/user-attachments/assets/32fdc1d2-a3c4-46d8-a1c7-7aae3ea1621f" />
+
+
 
 Arquitectura del Proyecto
 ------------------------------------------------------------
