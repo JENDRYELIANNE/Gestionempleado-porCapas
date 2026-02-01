@@ -99,8 +99,8 @@ Funcionalidades
 4-Apertura de archivos de texto guardados
 5-Visualización de datos en formato tabular
 6-Confirmación al salir de la aplicación
+7-Interfaz con criterios de usabilidad y accesibilidad
 
-Interfaz con criterios de usabilidad y accesibilidad
 ⚪ Uso o Ejecución
 ----------------------------------------------------------
 
